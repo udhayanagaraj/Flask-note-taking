@@ -8,4 +8,4 @@ Keep track of your notes with Flask-Notes, a simple notes app. Some features inc
 * 🎨 Font and color customization	
 * 🗃️ Organized into folders and sections
 
-To run the file click app.py and run this file. 
+To run the file click on app.py and run it. 
